@@ -6,9 +6,46 @@ let links = [
 	---
 	title: "Website"
 	link: "https://alemayhu.com"
+	---
+	title: "Telegram"
+	link: "https://t.me/joinchat/TkdYqYimUj-lp7JD"
+	---
+	title: "Discord"
+	link: "https://discord.gg/PSKC3uS"
+	---
+	title: "Twitter"
+	link: "https://twitter.com/AAlemayhu"
+	---
+	title: "Patreon"
+	link: "https://www.patreon.com/alemayhu"
+	---
+	title: "Instagram" 
+	link: "https://instagram.com/alexanderalemayhu"
+	---	
+	title: "Facebook"
+	link: "https://facebook.com/alexanderalemayhu1"
+	---
+	title: "Tiktok"
+	link: "https://www.tiktok.com/@alexanderalemayhu"
+	---
+	title: "Buy me a coffee"
+	link: "https://buymeacoffee.com/aalemayhu"
+	---
+	title: "Tip"
+	link: "https://streamlabs.com/alexanderalemayhu1"
+	---
+	title: "Ko-Fi"
+	link: "https://ko-fi.com/alemayhu"
+	---
+	title: "Paypal"
+	link: "https://paypal.me/alemayhu"
 ]
 
-global	css body, html width: 100vw height: 100vh margin: 0 padding: 0
+global	css body, html
+	width: 100vw height: 100vh
+	margin: 0 padding: 0
+	max-width: 100% ofx: hidden
+	bg: linear-gradient(#5797f5, tomato)
 
 export tag App
 
