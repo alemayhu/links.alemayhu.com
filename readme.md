@@ -2,7 +2,7 @@
 
 Website to list links for [Alexander Alemayhu][0]
 
-## Run it
+## Development
 
 ```
 npm install
