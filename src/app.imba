@@ -7,29 +7,32 @@ let links = [
 	title: "Minds"
 	link: "https://www.minds.com/alexanderalemayhu/"
 	---
-	title: "Discord"
-	link: "https://discord.gg/PSKC3uS"
-	---
-	title: "Website"
-	link: "https://alemayhu.com"
-	---
 	title: "Telegram"
 	link: "https://t.me/joinchat/TkdYqYimUj-lp7JD"
-	---
-	title: "Twitter"
-	link: "https://twitter.com/AAlemayhu"
-	---
-	title: "Instagram" 
-	link: "https://instagram.com/alexanderalemayhu"
-	---	
-	title: "Facebook"
-	link: "https://facebook.com/alexanderalemayhu1"
 	---
 	title: "Tiktok"
 	link: "https://www.tiktok.com/@alexanderalemayhu"
 	---
+	title: "Instagram" 
+	link: "https://instagram.com/alexanderalemayhu"
+	---
+	title: "Discord"
+	link: "https://discord.gg/PSKC3uS"
+	---
 	title: "GitHub Sponsor"
 	link: "http://github.com/sponsors/alemayhu"
+	---
+	title: "Patreon"
+	link: "https://www.patreon.com/alemayhu"
+	---
+	title: "Website"
+	link: "https://alemayhu.com"
+	---
+	title: "Twitter"
+	link: "https://twitter.com/AAlemayhu"
+	---	
+	title: "Facebook"
+	link: "https://facebook.com/alexanderalemayhu1"
 	---
 	title: "Buy me a coffee"
 	link: "https://buymeacoffee.com/aalemayhu"
@@ -43,8 +46,8 @@ let links = [
 	title: "Paypal"
 	link: "https://paypal.me/alemayhu"
 	---
-	title: "Patreon"
-	link: "https://www.patreon.com/alemayhu"
+	title: "AlemayhuVODS"
+	link: "https://www.youtube.com/c/AlemayhuVODS"
 ]
 
 global	css body, html
