@@ -4,20 +4,20 @@ let links = [
 	title: "YouTube"
 	link: "https://youtube.com/c/alexanderalemayhu"
 	---
+	title: "Minds"
+	link: "https://www.minds.com/alexanderalemayhu/"
+	---
+	title: "Discord"
+	link: "https://discord.gg/PSKC3uS"
+	---
 	title: "Website"
 	link: "https://alemayhu.com"
 	---
 	title: "Telegram"
 	link: "https://t.me/joinchat/TkdYqYimUj-lp7JD"
 	---
-	title: "Discord"
-	link: "https://discord.gg/PSKC3uS"
-	---
 	title: "Twitter"
 	link: "https://twitter.com/AAlemayhu"
-	---
-	title: "Patreon"
-	link: "https://www.patreon.com/alemayhu"
 	---
 	title: "Instagram" 
 	link: "https://instagram.com/alexanderalemayhu"
@@ -27,6 +27,9 @@ let links = [
 	---
 	title: "Tiktok"
 	link: "https://www.tiktok.com/@alexanderalemayhu"
+	---
+	title: "GitHub Sponsor"
+	link: "http://github.com/sponsors/alemayhu"
 	---
 	title: "Buy me a coffee"
 	link: "https://buymeacoffee.com/aalemayhu"
@@ -39,6 +42,9 @@ let links = [
 	---
 	title: "Paypal"
 	link: "https://paypal.me/alemayhu"
+	---
+	title: "Patreon"
+	link: "https://www.patreon.com/alemayhu"
 ]
 
 global	css body, html
