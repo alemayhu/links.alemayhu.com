@@ -1,12 +1,9 @@
-FROM node:14-slim
+FROM python:3.8
 
 WORKDIR /app
 
-COPY package.json .
-RUN npm install
-
-COPY . .
+COPY ./dist .
 ENV PORT 3000
 EXPOSE 3000
 
-CMD ["/app/node_modules/.bin/imba", "-w", "src/express.imba"]
+CMD ["python", "-m", "http.server", "3000"]
