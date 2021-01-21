@@ -58,8 +58,7 @@ global	css body, html
 
 export tag App
 
-	css .link
-		p: 1rem width: 280px ta: center my: 1rem rd:  6px
+	css .link p: 1rem width: 280px ta: center my: 1rem rd:  6px
 
 	def render
 		<self[m: 0 w: 100vw h: 100vh d: flex fld: column ai: center bg: linear-gradient(#5797f5, tomato)]>
