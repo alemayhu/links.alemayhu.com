@@ -53,11 +53,3 @@ body, html, .App {
         text-decoration: none;
         color: black;
 }
-
-.links {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        gap: 0.5rem;
-        justify-content: center;
-}
