@@ -60,7 +60,6 @@ export tag App
 
 	css .link
 		p: 1rem width: 280px ta: center my: 1rem rd:  6px
-		&>a td: none c: black
 
 	def render
 		<self[m: 0 w: 100vw h: 100vh d: flex fld: column ai: center bg: linear-gradient(#5797f5, tomato)]>
@@ -68,5 +67,5 @@ export tag App
 				<img[w: 64px h: 64px rd: 32px] src="./assets/logo.png">
 				<h1[c: white mb: 0]> "Alexander Alemayhu"
 			<.links> for l in links
-				<.link[bg: white fw: bold bd: 3px solid transparent bd@hover: 3px solid black]>
-					<a href=l.link target="_blank"> l.title
+				<a[td: none c: black] href=l.link target="_blank">
+					<.link[pe: auto bg: white fw: bold bd: 3px solid transparent bd@hover: 3px solid black]> l.title
