@@ -1,4 +1,4 @@
-let InitPage = function () {
+window.addEventListener('DOMContentLoaded', (event) => {
         const links = [
                 { title: "YouTube", link: "https://youtube.com/c/alexanderalemayhu" },
                 { title: "Minds", link: "https://www.minds.com/alexanderalemayhu/" },
@@ -17,8 +17,8 @@ let InitPage = function () {
                 { title: "Paypal", link: "https://paypal.me/alemayhu" },
                 { title: "AlemayhuVODS", link: "https://www.youtube.com/c/AlemayhuVODS" }
         ];
+        
         const container = document.getElementsByClassName('links')[0];
-
         for (const link of links) {
                 const linkDiv = document.createElement('div');
                 linkDiv.className = "link";
@@ -33,6 +33,4 @@ let InitPage = function () {
 
                 container.appendChild(linkA);
         }
-
-        console.log(container)
-};
+});
