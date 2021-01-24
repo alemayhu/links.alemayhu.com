@@ -53,3 +53,12 @@ body, html, .App {
         text-decoration: none;
         color: black;
 }
+
+.footer-text {
+        color: white;
+}
+
+.footer-text a {
+        color: white;
+        font-weight: bold;
+}
