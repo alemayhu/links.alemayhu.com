@@ -12,6 +12,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
                 { title: "Tip", link: "https://streamlabs.com/alexanderalemayhu1" },
                 { title: "Ko-Fi", link: "https://ko-fi.com/alemayhu" },
                 { title: "Paypal", link: "https://paypal.me/alemayhu" },
+                { title: "Twitch", link: "http://twitch.tv/alexanderalemayhu" },
                 { title: "AlemayhuVODS", link: "https://www.youtube.com/c/AlemayhuVODS" }
         ];
         
